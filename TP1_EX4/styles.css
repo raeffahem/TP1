@@ -1,0 +1,10 @@
+ol {
+    list-style-type: decimal;
+  }
+  
+  li {
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
